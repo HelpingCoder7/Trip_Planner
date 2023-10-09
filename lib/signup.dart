@@ -41,7 +41,7 @@ class _SignupState extends State<Signup> {
                 height: 50,
               ),
               Image.asset(
-                './assets/images/familytrip.jpg',
+                './assets/images/plane.png',
                 height: 250,
                 width: 250,
               ),
